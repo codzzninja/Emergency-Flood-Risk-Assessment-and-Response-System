@@ -1,0 +1,1212 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Risk Zone - Jakarta Coast",
+        "risk": "High",
+        "description": "Flood-prone urban area due to sea-level rise and sinking land.",
+        "population": 100000,
+        "lastFlooded": "2024-12-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.8451,
+              -6.1745
+            ],
+            [
+              106.8551,
+              -6.1745
+            ],
+            [
+              106.8551,
+              -6.1845
+            ],
+            [
+              106.8451,
+              -6.1845
+            ],
+            [
+              106.8451,
+              -6.1745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medium Risk Zone - Netherlands Dike Region",
+        "risk": "Medium",
+        "description": "Protected by dikes but at sea level.",
+        "population": 50000,
+        "lastFlooded": "2023-11-22"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.8952,
+              52.3702
+            ],
+            [
+              4.9052,
+              52.3702
+            ],
+            [
+              4.9052,
+              52.3602
+            ],
+            [
+              4.8952,
+              52.3602
+            ],
+            [
+              4.8952,
+              52.3702
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Low Risk Zone - Rocky Mountains",
+        "risk": "Low",
+        "description": "High elevation area with minimal flooding.",
+        "population": 1500,
+        "lastFlooded": "2017-06-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.4453,
+              39.5501
+            ],
+            [
+              -106.4353,
+              39.5501
+            ],
+            [
+              -106.4353,
+              39.5401
+            ],
+            [
+              -106.4453,
+              39.5401
+            ],
+            [
+              -106.4453,
+              39.5501
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Risk Zone - Bangladesh Coastal Region",
+        "risk": "High",
+        "description": "Cyclone-prone low-lying coastal area highly vulnerable to storm surges.",
+        "population": 150000,
+        "lastFlooded": "2024-10-08"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.25,
+              22.1
+            ],
+            [
+              90.26,
+              22.1
+            ],
+            [
+              90.26,
+              22.09
+            ],
+            [
+              90.25,
+              22.09
+            ],
+            [
+              90.25,
+              22.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medium Risk Zone - Louisiana Wetlands",
+        "risk": "Medium",
+        "description": "Partially drained wetlands near New Orleans, risk elevated during hurricanes.",
+        "population": 20000,
+        "lastFlooded": "2023-09-17"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -90.05,
+              29.95
+            ],
+            [
+              -90.04,
+              29.95
+            ],
+            [
+              -90.04,
+              29.94
+            ],
+            [
+              -90.05,
+              29.94
+            ],
+            [
+              -90.05,
+              29.95
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Risk Zone - Manila Bay Area",
+        "risk": "High",
+        "description": "Heavily urbanized area with frequent typhoon-related flooding.",
+        "population": 300000,
+        "lastFlooded": "2024-11-05"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.97,
+              14.6
+            ],
+            [
+              120.98,
+              14.6
+            ],
+            [
+              120.98,
+              14.59
+            ],
+            [
+              120.97,
+              14.59
+            ],
+            [
+              120.97,
+              14.6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medium Risk Zone - Sydney River Basin",
+        "risk": "Medium",
+        "description": "Urban waterway with seasonal flood risk during heavy rainfall events.",
+        "population": 5000,
+        "lastFlooded": "2023-02-18"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              151.21,
+              -33.86
+            ],
+            [
+              151.22,
+              -33.86
+            ],
+            [
+              151.22,
+              -33.87
+            ],
+            [
+              151.21,
+              -33.87
+            ],
+            [
+              151.21,
+              -33.86
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Low Risk Zone - Andes Highlands",
+        "risk": "Low",
+        "description": "Elevated terrain with limited surface runoff; low flood probability.",
+        "population": 800,
+        "lastFlooded": "2016-03-14"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -71.537,
+              -13.5319
+            ],
+            [
+              -71.527,
+              -13.5319
+            ],
+            [
+              -71.527,
+              -13.5419
+            ],
+            [
+              -71.537,
+              -13.5419
+            ],
+            [
+              -71.537,
+              -13.5319
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Risk Zone - Jakarta Coast",
+        "risk": "High",
+        "description": "Flood-prone urban area due to sea-level rise and sinking land.",
+        "population": 100000,
+        "lastFlooded": "2024-12-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.8451,
+              -6.1745
+            ],
+            [
+              106.8551,
+              -6.1745
+            ],
+            [
+              106.8551,
+              -6.1845
+            ],
+            [
+              106.8451,
+              -6.1845
+            ],
+            [
+              106.8451,
+              -6.1745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medium Risk Zone - Netherlands Dike Region",
+        "risk": "Medium",
+        "description": "Protected by dikes but at sea level.",
+        "population": 50000,
+        "lastFlooded": "2023-11-22"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.8952,
+              52.3702
+            ],
+            [
+              4.9052,
+              52.3702
+            ],
+            [
+              4.9052,
+              52.3602
+            ],
+            [
+              4.8952,
+              52.3602
+            ],
+            [
+              4.8952,
+              52.3702
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Low Risk Zone - Rocky Mountains",
+        "risk": "Low",
+        "description": "High elevation area with minimal flooding.",
+        "population": 1500,
+        "lastFlooded": "2017-06-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.4453,
+              39.5501
+            ],
+            [
+              -106.4353,
+              39.5501
+            ],
+            [
+              -106.4353,
+              39.5401
+            ],
+            [
+              -106.4453,
+              39.5401
+            ],
+            [
+              -106.4453,
+              39.5501
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Risk Zone - Riverbank Area",
+        "risk": "High",
+        "description": "Frequently flooded area near river, immediate evacuation zone",
+        "population": 2500,
+        "lastFlooded": "2024-07-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [88.3500, 22.5800],
+          [88.3600, 22.5800],
+          [88.3600, 22.5700],
+          [88.3500, 22.5700],
+          [88.3500, 22.5800]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Risk Zone - Delta Region",
+        "risk": "High",
+        "description": "Low-lying delta area prone to severe flooding",
+        "population": 1800,
+        "lastFlooded": "2024-08-03"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [88.3650, 22.5750],
+          [88.3750, 22.5750],
+          [88.3750, 22.5650],
+          [88.3650, 22.5650],
+          [88.3650, 22.5750]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Risk Zone - Canal Junction",
+        "risk": "High",
+        "description": "Intersection of multiple waterways",
+        "population": 3200,
+        "lastFlooded": "2024-06-22"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [88.3200, 22.5900],
+          [88.3300, 22.5900],
+          [88.3300, 22.5800],
+          [88.3200, 22.5800],
+          [88.3200, 22.5900]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medium Risk Zone - Residential District",
+        "risk": "Medium",
+        "description": "Occasionally flooded during heavy rains, adequate drainage",
+        "population": 4500,
+        "lastFlooded": "2023-09-12"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [88.3400, 22.5750],
+          [88.3500, 22.5750],
+          [88.3500, 22.5650],
+          [88.3400, 22.5650],
+          [88.3400, 22.5750]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medium Risk Zone - Commercial Area",
+        "risk": "Medium",
+        "description": "Business district with moderate flood risk during monsoons",
+        "population": 6800,
+        "lastFlooded": "2023-08-28"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [88.3600, 22.5650],
+          [88.3700, 22.5650],
+          [88.3700, 22.5550],
+          [88.3600, 22.5550],
+          [88.3600, 22.5650]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medium Risk Zone - Suburban Area",
+        "risk": "Medium",
+        "description": "Suburban residential area with seasonal waterlogging",
+        "population": 3700,
+        "lastFlooded": "2024-01-10"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [88.3350, 22.5850],
+          [88.3450, 22.5850],
+          [88.3450, 22.5750],
+          [88.3350, 22.5750],
+          [88.3350, 22.5850]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medium Risk Zone - Industrial Zone",
+        "risk": "Medium",
+        "description": "Industrial area with improved drainage systems",
+        "population": 1200,
+        "lastFlooded": "2023-07-05"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [88.3150, 22.5650],
+          [88.3250, 22.5650],
+          [88.3250, 22.5550],
+          [88.3150, 22.5550],
+          [88.3150, 22.5650]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Low Risk Zone - Upland District",
+        "risk": "Low",
+        "description": "Minimal flood risk due to higher elevation",
+        "population": 5200,
+        "lastFlooded": "2021-08-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [88.3300, 22.5700],
+          [88.3400, 22.5700],
+          [88.3400, 22.5600],
+          [88.3300, 22.5600],
+          [88.3300, 22.5700]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Low Risk Zone - Hill Station",
+        "risk": "Low",
+        "description": "Elevated area with excellent natural drainage",
+        "population": 2100,
+        "lastFlooded": "2020-09-03"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [88.3700, 22.5900],
+          [88.3800, 22.5900],
+          [88.3800, 22.5800],
+          [88.3700, 22.5800],
+          [88.3700, 22.5900]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Low Risk Zone - New Development",
+        "risk": "Low",
+        "description": "Recently developed area with modern flood management",
+        "population": 4100,
+        "lastFlooded": "Never"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [88.3100, 22.5800],
+          [88.3200, 22.5800],
+          [88.3200, 22.5700],
+          [88.3100, 22.5700],
+          [88.3100, 22.5800]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Low Risk Zone - University Campus",
+        "risk": "Low",
+        "description": "Well-planned campus with effective water management",
+        "population": 8500,
+        "lastFlooded": "2019-06-12"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [88.3450, 22.5600],
+          [88.3550, 22.5600],
+          [88.3550, 22.5500],
+          [88.3450, 22.5500],
+          [88.3450, 22.5600]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Risk Zone - Wetland Buffer",
+        "risk": "High",
+        "description": "Natural wetland area that experiences regular seasonal flooding",
+        "population": 450,
+        "lastFlooded": "2024-09-18"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [88.3750, 22.5850],
+          [88.3850, 22.5850],
+          [88.3850, 22.5750],
+          [88.3750, 22.5750],
+          [88.3750, 22.5850]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medium Risk Zone - Agricultural Belt",
+        "risk": "Medium",
+        "description": "Farming area with controlled flooding for irrigation",
+        "population": 1800,
+        "lastFlooded": "2024-04-20"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [88.3050, 22.5750],
+          [88.3150, 22.5750],
+          [88.3150, 22.5650],
+          [88.3050, 22.5650],
+          [88.3050, 22.5750]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Low Risk Zone - Heritage District",
+        "risk": "Low",
+        "description": "Historic area on elevated ground with protected status",
+        "population": 3400,
+        "lastFlooded": "2018-10-07"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [88.3250, 22.5500],
+          [88.3350, 22.5500],
+          [88.3350, 22.5400],
+          [88.3250, 22.5400],
+          [88.3250, 22.5500]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Risk Zone - Port Area",
+        "risk": "High",
+        "description": "Waterfront port facilities at sea level",
+        "population": 2800,
+        "lastFlooded": "2024-10-12"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [88.3800, 22.5700],
+          [88.3900, 22.5700],
+          [88.3900, 22.5600],
+          [88.3800, 22.5600],
+          [88.3800, 22.5700]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Risk Zone - Jakarta Coastal Plain",
+        "risk": "High",
+        "description": "Low-lying coastal area facing frequent tidal flooding and subsidence",
+        "population": 5200,
+        "lastFlooded": "2025-01-12"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [106.8200, -6.1500],
+          [106.8300, -6.1500],
+          [106.8300, -6.1600],
+          [106.8200, -6.1600],
+          [106.8200, -6.1500]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medium Risk Zone - Mississippi Delta",
+        "risk": "Medium",
+        "description": "River delta prone to seasonal overflow and storm surge",
+        "population": 2200,
+        "lastFlooded": "2023-08-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-90.1200, 29.9500],
+          [-90.1100, 29.9500],
+          [-90.1100, 29.9400],
+          [-90.1200, 29.9400],
+          [-90.1200, 29.9500]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Low Risk Zone - Swiss Alpine Basin",
+        "risk": "Low",
+        "description": "Mountain basin with high elevation and controlled water management",
+        "population": 900,
+        "lastFlooded": "2010-06-05"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [8.3100, 46.8200],
+          [8.3200, 46.8200],
+          [8.3200, 46.8100],
+          [8.3100, 46.8100],
+          [8.3100, 46.8200]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Risk Zone - Dhaka River Fringe",
+        "risk": "High",
+        "description": "Urban area along riverbanks with rapid expansion and flood vulnerability",
+        "population": 6700,
+        "lastFlooded": "2024-07-28"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [90.4000, 23.7200],
+          [90.4100, 23.7200],
+          [90.4100, 23.7100],
+          [90.4000, 23.7100],
+          [90.4000, 23.7200]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medium Risk Zone - Nile River Bend",
+        "risk": "Medium",
+        "description": "Agricultural land along the Nile with controlled irrigation and seasonal risk",
+        "population": 3100,
+        "lastFlooded": "2024-05-03"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [32.5800, 15.6200],
+          [32.5900, 15.6200],
+          [32.5900, 15.6100],
+          [32.5800, 15.6100],
+          [32.5800, 15.6200]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Risk Zone - Assam Brahmaputra Floodplain",
+        "risk": "High",
+        "description": "Low-lying floodplain prone to annual monsoon flooding from the Brahmaputra River",
+        "population": 6200,
+        "lastFlooded": "2024-08-14"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [91.7500, 26.2000],
+          [91.7600, 26.2000],
+          [91.7600, 26.1900],
+          [91.7500, 26.1900],
+          [91.7500, 26.2000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medium Risk Zone - Mahanadi Delta, Odisha",
+        "risk": "Medium",
+        "description": "Delta region experiencing periodic flooding due to river overflow and cyclones",
+        "population": 4100,
+        "lastFlooded": "2023-10-22"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [85.8800, 20.2600],
+          [85.8900, 20.2600],
+          [85.8900, 20.2500],
+          [85.8800, 20.2500],
+          [85.8800, 20.2600]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Low Risk Zone - Deccan Plateau Fringe, Karnataka",
+        "risk": "Low",
+        "description": "Elevated terrain with well-drained soil and minimal flood history",
+        "population": 1500,
+        "lastFlooded": "2012-09-10"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [75.9500, 15.3000],
+          [75.9600, 15.3000],
+          [75.9600, 15.2900],
+          [75.9500, 15.2900],
+          [75.9500, 15.3000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Risk Zone - Chennai Coastal Strip",
+        "risk": "High",
+        "description": "Coastal urban area vulnerable to cyclonic storm surges and poor drainage",
+        "population": 5400,
+        "lastFlooded": "2024-12-02"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [80.2700, 13.0800],
+          [80.2800, 13.0800],
+          [80.2800, 13.0700],
+          [80.2700, 13.0700],
+          [80.2700, 13.0800]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medium Risk Zone - Narmada Riverbank, Madhya Pradesh",
+        "risk": "Medium",
+        "description": "River-adjacent region with regulated dams but flood risk during heavy monsoons",
+        "population": 2900,
+        "lastFlooded": "2024-07-19"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [76.8300, 22.1200],
+          [76.8400, 22.1200],
+          [76.8400, 22.1100],
+          [76.8300, 22.1100],
+          [76.8300, 22.1200]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Risk Zone - Terai Region, Nepal",
+        "risk": "High",
+        "description": "Low-lying plains of southern Nepal prone to river flooding during monsoon",
+        "population": 3700,
+        "lastFlooded": "2024-08-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [83.3700, 27.6200],
+          [83.3800, 27.6200],
+          [83.3800, 27.6100],
+          [83.3700, 27.6100],
+          [83.3700, 27.6200]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Risk Zone - Ganges Delta, Bangladesh",
+        "risk": "High",
+        "description": "Densely populated delta frequently hit by flooding and cyclones",
+        "population": 9800,
+        "lastFlooded": "2024-09-26"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [89.5000, 22.3400],
+          [89.5100, 22.3400],
+          [89.5100, 22.3300],
+          [89.5000, 22.3300],
+          [89.5000, 22.3400]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medium Risk Zone - Sindh Floodplain, Pakistan",
+        "risk": "Medium",
+        "description": "Indus River floodplain vulnerable during heavy rainfall and glacial melt",
+        "population": 4400,
+        "lastFlooded": "2023-09-05"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [68.3600, 26.1400],
+          [68.3700, 26.1400],
+          [68.3700, 26.1300],
+          [68.3600, 26.1300],
+          [68.3600, 26.1400]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Low Risk Zone - Kandy Highlands, Sri Lanka",
+        "risk": "Low",
+        "description": "Elevated region with low flood vulnerability due to topography",
+        "population": 1600,
+        "lastFlooded": "2016-11-02"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [80.6300, 7.3000],
+          [80.6400, 7.3000],
+          [80.6400, 7.2900],
+          [80.6300, 7.2900],
+          [80.6300, 7.3000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medium Risk Zone - Irrawaddy Delta, Myanmar",
+        "risk": "Medium",
+        "description": "Extensive deltaic region with seasonal monsoon flooding",
+        "population": 5200,
+        "lastFlooded": "2024-06-10"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [95.1700, 16.7200],
+          [95.1800, 16.7200],
+          [95.1800, 16.7100],
+          [95.1700, 16.7100],
+          [95.1700, 16.7200]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Risk Zone - Bihar Kosi Basin",
+        "risk": "High",
+        "description": "Region prone to flash floods due to the shifting Kosi River",
+        "population": 5800,
+        "lastFlooded": "2024-08-30"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [86.9800, 26.5200],
+          [86.9900, 26.5200],
+          [86.9900, 26.5100],
+          [86.9800, 26.5100],
+          [86.9800, 26.5200]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medium Risk Zone - Barmer Desert Fringe, Rajasthan",
+        "risk": "Medium",
+        "description": "Arid region with rare flash floods during extreme monsoon events",
+        "population": 1700,
+        "lastFlooded": "2022-07-18"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [71.3800, 25.7600],
+          [71.3900, 25.7600],
+          [71.3900, 25.7500],
+          [71.3800, 25.7500],
+          [71.3800, 25.7600]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Low Risk Zone - Pune Upland, Maharashtra",
+        "risk": "Low",
+        "description": "Inland urban area with limited flood exposure due to elevation",
+        "population": 3100,
+        "lastFlooded": "2013-09-20"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [73.8500, 18.5200],
+          [73.8600, 18.5200],
+          [73.8600, 18.5100],
+          [73.8500, 18.5100],
+          [73.8500, 18.5200]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Risk Zone - Sunderbans Mangrove Region, India",
+        "risk": "High",
+        "description": "Deltaic coastal area at sea level highly vulnerable to cyclones and tides",
+        "population": 7400,
+        "lastFlooded": "2025-05-14"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [88.7800, 21.9500],
+          [88.7900, 21.9500],
+          [88.7900, 21.9400],
+          [88.7800, 21.9400],
+          [88.7800, 21.9500]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medium Risk Zone - Yamuna Riverbank, Delhi",
+        "risk": "Medium",
+        "description": "Urban area affected by river overflow and drainage issues",
+        "population": 4200,
+        "lastFlooded": "2023-09-10"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [77.2400, 28.6400],
+          [77.2500, 28.6400],
+          [77.2500, 28.6300],
+          [77.2400, 28.6300],
+          [77.2400, 28.6400]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Risk Zone - Sylhet Basin, Bangladesh",
+        "risk": "High",
+        "description": "Flood-prone lowlands with heavy monsoon rainfall and river overflow",
+        "population": 6500,
+        "lastFlooded": "2024-09-04"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [91.8600, 24.9000],
+          [91.8700, 24.9000],
+          [91.8700, 24.8900],
+          [91.8600, 24.8900],
+          [91.8600, 24.9000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Low Risk Zone - Thimphu Valley, Bhutan",
+        "risk": "Low",
+        "description": "Mountain valley with controlled streams and minimal flood risk",
+        "population": 1200,
+        "lastFlooded": "2011-06-18"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [89.6200, 27.4700],
+          [89.6300, 27.4700],
+          [89.6300, 27.4600],
+          [89.6200, 27.4600],
+          [89.6200, 27.4700]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medium Risk Zone - Jaffna Peninsula, Sri Lanka",
+        "risk": "Medium",
+        "description": "Low-lying area with occasional flooding from monsoonal rains",
+        "population": 2300,
+        "lastFlooded": "2023-11-11"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [80.0100, 9.6600],
+          [80.0200, 9.6600],
+          [80.0200, 9.6500],
+          [80.0100, 9.6500],
+          [80.0100, 9.6600]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Risk Zone - Karachi Coastal Belt, Pakistan",
+        "risk": "High",
+        "description": "Sea-level urban area at risk from storm surges and poor drainage",
+        "population": 8000,
+        "lastFlooded": "2024-07-20"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [67.0000, 24.8600],
+          [67.0100, 24.8600],
+          [67.0100, 24.8500],
+          [67.0000, 24.8500],
+          [67.0000, 24.8600]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medium Risk Zone - Mandalay Riverfront, Myanmar",
+        "risk": "Medium",
+        "description": "City by the Irrawaddy River, vulnerable to overflow during monsoon",
+        "population": 4600,
+        "lastFlooded": "2024-06-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [96.0500, 21.9700],
+          [96.0600, 21.9700],
+          [96.0600, 21.9600],
+          [96.0500, 21.9600],
+          [96.0500, 21.9700]
+        ]]
+      }
+    }
+  ]
+}
